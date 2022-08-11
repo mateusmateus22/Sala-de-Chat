@@ -1,1 +1,1 @@
-Hi, this is my frist git project. 
+Hi, this is my first git project. 
